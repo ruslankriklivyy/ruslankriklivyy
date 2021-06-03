@@ -12,3 +12,8 @@
 ![MobX](https://img.shields.io/badge/-MobX-222222?style=for-the-badge&logo=mobx)
 ![NextJS](https://img.shields.io/badge/-NextJS-222222?style=for-the-badge)
 ![StyledComponents](https://img.shields.io/badge/-styled_components-222222?style=for-the-badge&logo=styled-components)
+
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
+[![Instagram](https://img.shields.io/badge/-instagram-222222?style=for-the-badge&logo=instagram)](https://www.instagram.com/_ruslan.kriklivyy/?hl=ru)
