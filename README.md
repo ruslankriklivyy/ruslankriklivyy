@@ -17,3 +17,4 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
 [![Instagram](https://img.shields.io/badge/-instagram-222222?style=for-the-badge&logo=instagram)](https://www.instagram.com/_ruslan.kriklivyy/?hl=ru)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=twitter)](https://twitter.com/RKriklivyy)
