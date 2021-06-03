@@ -1,4 +1,4 @@
-[![Header](https://github.com/ruslankriklivyy/ruslankriklivyy/blob/main/assets/background.gif)](https://portfolio-v2-blush.vercel.app/)
+[![Header](https://github.com/ruslankriklivyy/ruslankriklivyy/blob/main/assets/background.gif)](https://ruslankriklivyy.netlify.app/)
 
 ## I am a Frontend Developer and I 💙 creating usable web interfaces.
 
