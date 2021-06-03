@@ -4,4 +4,4 @@
 
 ### Technologies I use
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-0078D7)
+![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=react)
