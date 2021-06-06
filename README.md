@@ -1,4 +1,4 @@
-[![Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## I am a Frontend Developer and I 💙 creating usable web interfaces.
 
