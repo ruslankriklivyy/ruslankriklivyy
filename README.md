@@ -1,4 +1,4 @@
-[![Header](https://github.com/ruslankriklivyy/ruslankriklivyy/blob/main/assets/background.gif)](https://ruslankriklivyy.netlify.app/)
+[![Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## I am a Frontend Developer and I 💙 creating usable web interfaces.
 
