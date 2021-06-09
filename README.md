@@ -5,7 +5,8 @@
 ### A little about me
 - :atom: I like to learn new technologies
 - :desktop_computer: I love writing code
-- :electron: I want to develop in the field of frontend
+- :muscle: I want to develop in frontend
+- :globe_with_meridians: I want to participate in interesting projects
 
 ### Technologies I use
 
