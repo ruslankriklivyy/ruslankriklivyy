@@ -1,4 +1,4 @@
-№ Hi there 👋, I'm Ruslan Kriklivyy
+# Hi there 👋, I'm Ruslan Kriklivyy
 
 ## I am a Frontend Developer and I 💙 creating usable web interfaces.
 
