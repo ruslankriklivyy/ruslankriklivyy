@@ -1,6 +1,11 @@
 # Hi there 👋, I'm Ruslan Kriklivyy
 
-## I am a Frontend Developer and I 💙 creating usable web interfaces.
+### I am a Frontend Developer and I 💙 creating usable web interfaces.
+
+### A little about me
+- :atom: I like to learn new technologies
+- :desktop_computer: I love writing code
+- :electron: I want to develop in the field of frontend
 
 ### Technologies I use
 
