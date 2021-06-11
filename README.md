@@ -1,13 +1,5 @@
 # Hi there 👋, I'm Ruslan Kriklivyy
 
-### I am a Frontend Developer and I 💙 creating usable web interfaces.
-
-### A little about me
-- :atom: I like to learn new technologies
-- :desktop_computer: I love writing code
-- :muscle: I want to develop in frontend
-- :globe_with_meridians: I want to participate in interesting projects
-
 ### Technologies I use
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-222222?style=for-the-badge&logo=react)
@@ -22,5 +14,4 @@
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
-[![Instagram](https://img.shields.io/badge/-instagram-222222?style=for-the-badge&logo=instagram)](https://www.instagram.com/_ruslan.kriklivyy/?hl=ru)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=twitter)](https://twitter.com/RKriklivyy)
