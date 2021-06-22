@@ -11,6 +11,8 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-222222?style=for-the-badge)
 ![StyledComponents](https://img.shields.io/badge/-styled_components-222222?style=for-the-badge&logo=styled-components)
 
+### My blog - [Kriklivyy Blog](https://kriklivyy-blog.vercel.app/) &#128421;
+
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
