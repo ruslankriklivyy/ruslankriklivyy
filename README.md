@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Ruslan Kriklivyy
 
+### My blog - [Kriklivyy Blog](https://kriklivyy-blog.vercel.app/) &#128421;
+
 ### Technologies I use
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-222222?style=for-the-badge&logo=react)
@@ -10,8 +12,6 @@
 ![MobX](https://img.shields.io/badge/-MobX-222222?style=for-the-badge&logo=mobx)
 ![NextJS](https://img.shields.io/badge/-NextJS-222222?style=for-the-badge)
 ![StyledComponents](https://img.shields.io/badge/-styled_components-222222?style=for-the-badge&logo=styled-components)
-
-### My blog - [Kriklivyy Blog](https://kriklivyy-blog.vercel.app/) &#128421;
 
 ### Follow me
 
