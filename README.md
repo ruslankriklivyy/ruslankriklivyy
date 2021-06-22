@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ruslan Kriklivyy
 
-### My blog about frontend development - [Kriklivyy Blog](https://kriklivyy-blog.vercel.app/) 👀
+### My blog about frontend development - [Kriklivyy Blog](https://kriklivyy-blog.vercel.app/) &#127756;
 
 ### Technologies I use
 
