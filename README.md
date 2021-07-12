@@ -5,6 +5,7 @@
 ### Technologies I use
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-222222?style=for-the-badge&logo=react)
+![VueJS](https://img.shields.io/badge/-VueJS-222222?style=for-the-badge&logo=vue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logo=typescript)
 ![FireBase](https://img.shields.io/badge/-FireBase-222222?style=for-the-badge&logo=firebase)
