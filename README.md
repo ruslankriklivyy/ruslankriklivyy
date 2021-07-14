@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Ruslan Kriklivyy
 
-![](https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif)
-
 ### My blog about frontend development - [Kriklivyy Blog](https://kriklivyy-blog.vercel.app/) &#127756;
 
-### Technologies I use
+### The main technologies that I use
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-222222?style=for-the-badge&logo=react)
 ![VueJS](https://img.shields.io/badge/-VueJS-222222?style=for-the-badge&logo=vue)
