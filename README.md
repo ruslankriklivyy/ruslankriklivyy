@@ -26,6 +26,9 @@
   <img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/739px-Twitter_bird_logo_2012.svg.png" />  
 </a>
 
+</br>
+</br>
+
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslankriklivyy&langs_count=8&layout=compact" />
