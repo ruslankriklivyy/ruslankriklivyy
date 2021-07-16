@@ -21,7 +21,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
+
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=twitter)](https://twitter.com/RKriklivyy)
+![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
+![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=twitter)](https://twitter.com/RKriklivyy)
