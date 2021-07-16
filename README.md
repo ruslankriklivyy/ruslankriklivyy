@@ -15,7 +15,7 @@
 ![StyledComponents](https://img.shields.io/badge/-styled_components-222222?style=for-the-badge&logo=styled-components) -->
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
 <img align="left" alt="MobX" width="26px" src="https://mobx.js.org/img/mobx.png" />
 <img align="left" alt="Next" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 <img align="left" alt="Gatsby" width="26px" height="26px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
@@ -30,6 +30,9 @@
 <h3>Follow me<h3/>
 <a href="https://t.me/ruslankriklivy" >
   <img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />  
+</a>
+<a href="https://twitter.com/RKriklivyy" >
+  <img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/739px-Twitter_bird_logo_2012.svg.png" />  
 </a>
 <!-- [![Telegram]()]()
 [![Twitter](https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/739px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/RKriklivyy) -->
