@@ -26,7 +26,7 @@
 
 </br>
 </br>
-### Follow me
+<h3>Follow me<h3/>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=twitter)](https://twitter.com/RKriklivyy)
