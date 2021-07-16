@@ -18,6 +18,7 @@
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="MobX" width="26px" src="https://mobx.js.org/img/mobx.png" />
 <img align="left" alt="Next" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
+<img align="left" alt="Gatsby" width="26px" height="26px" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,6 +28,8 @@
 </br>
 </br>
 <h3>Follow me<h3/>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-222222?style=for-the-badge&logo=telegram)](https://t.me/ruslankriklivy)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=for-the-badge&logo=twitter)](https://twitter.com/RKriklivyy)
+<a href="https://t.me/ruslankriklivy" >
+  <img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />  
+</a>
+<!-- [![Telegram]()]()
+[![Twitter](https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/739px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/RKriklivyy) -->
