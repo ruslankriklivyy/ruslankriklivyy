@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ruslan Kriklivyy
+# Hi there 👋
 
 ### My blog about frontend development - [Kriklivyy Blog](https://kriklivyy-blog.vercel.app/) &#127756;
 
