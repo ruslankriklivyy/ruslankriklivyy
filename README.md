@@ -14,7 +14,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<p align="center">
+<p>
     <a href="https://github.com/ruslankriklivyy/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruslankriklivyy streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ruslankriklivyy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
