@@ -27,8 +27,6 @@
 <a href="https://github.com/ruslankriklivyy/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruslankriklivyy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ruslankriklivyy/github-readme-stats"><img alt="ruslankriklivyy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslankriklivyy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-</br>
-</br>
 <h3>Follow me</h3>
 <a href="https://t.me/ruslankriklivy" >
   <img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />  
