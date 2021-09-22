@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif?cid=790b76113e127d8c54b83a4b5485f03b5b185a5ffd630742&rid=giphy.gif&ct=g" alt="poster" height="200px" >
-
 ### My blog about frontend development - [Kriklivyy Blog](https://kriklivyy-blog-v2.netlify.app/) &#127756;
 
 ### The main technologies that I use
