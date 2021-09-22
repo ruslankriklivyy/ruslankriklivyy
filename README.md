@@ -24,13 +24,6 @@
 
   <a href="https://github.com/ruslankriklivyy/github-readme-stats"><img alt="ruslankriklivyy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslankriklivyy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3>Follow me</h3>
-<a href="https://t.me/ruslankriklivy" >
-  <img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />  
-</a>
-<a href="https://twitter.com/RKriklivyy" >
-  <img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/739px-Twitter_bird_logo_2012.svg.png" />  
-</a>
 
 </br>
 </br>
