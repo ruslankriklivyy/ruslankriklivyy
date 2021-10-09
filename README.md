@@ -1,5 +1,3 @@
-# Hey 👋
-
 ### My blog - [Kriklivyy Blog](https://kriklivyy-blog-v2.netlify.app/)
 
 ### The main technologies that I use
