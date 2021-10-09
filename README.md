@@ -1,6 +1,6 @@
 # Hey 👋
 
-### My blog about frontend development - [Kriklivyy Blog](https://kriklivyy-blog-v2.netlify.app/) &#127756;
+### My blog - [Kriklivyy Blog](https://kriklivyy-blog-v2.netlify.app/)
 
 ### The main technologies that I use
 
